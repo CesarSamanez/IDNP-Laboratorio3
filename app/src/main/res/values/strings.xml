@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Laboratorio3</string>
+    <string name="bienvenido">Bienvenido</string>
+    <string name="paciente">Paciente</string>
+    <string name="visita">Visita</string>
+    <string name="nombres">Nombres:</string>
+    <string name="peso">Peso:</string>
+    <string name="nivel_de_saturacion">Nivel de Saturación:</string>
+    <string name="temperatura">Temperatura:</string>
+    <string name="presion">Presión:</string>
+    <string name="dni">Dni:</string>
+    <string name="direccion">Dirección</string>
+    <string name="guardar">Guardar</string>
+    <string name="registro_de_pacientes">Registro de Pacientes</string>
+    <string name="registro_de_visita">Registro de Visita</string>
+    <string name="enviar_email">Enviar Email</string>
+</resources>
